@@ -121,3 +121,11 @@ npx cap open android
 - [Документация Quasar](https://quasar.dev/)
 - [Документация Capacitor](https://capacitorjs.com/)
 - [Документация Vue 3](https://vuejs.org/)
+
+# Видео
+
+https://github.com/user-attachments/assets/d92ea892-8d78-4efa-a871-1a866104c452
+
+https://github.com/user-attachments/assets/91c4ffe2-7c15-4643-9c83-b6e40a1d3267
+
+https://github.com/user-attachments/assets/909d4aa3-1c7f-400b-9d97-c69ef644a51a
